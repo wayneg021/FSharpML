@@ -3,6 +3,7 @@
 
 #load "Library1.fs"
 open Ch02
+open System.IO
 
 // Define your library scripting code here
 
